@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>back.png</file>
+        <file>down.png</file>
+        <file>left.png</file>
+        <file>menu.png</file>
+        <file>pwrOff.png</file>
+        <file>pwrOn.png</file>
+        <file>right.png</file>
+        <file>up.png</file>
+        <file>shock.gif</file>
+    </qresource>
+</RCC>
