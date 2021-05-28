@@ -1,12 +1,6 @@
 # Therapy-software-QT
 Electrotherapy simulation made with QT creator, C++
 
-main menu
-<img width="908" alt="pic1" src="https://user-images.githubusercontent.com/34945097/119921053-57af1600-bf3b-11eb-9480-87d53b3f11fc.png">
-
-
-main treatment options
-<img width="905" alt="pic2" src="https://user-images.githubusercontent.com/34945097/119921104-6eee0380-bf3b-11eb-9c0e-b7aa33fd26ff.png">
 
 
 treatment process
